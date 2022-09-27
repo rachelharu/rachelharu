@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Rachel
 - 👀 I’m interested in Full-stack web development
-- ✨ My repository is a mix of personal projects and projects/challenges from a bootcamp course
 - 🌱 I’m currently learning :)
+- ✨ Check out the projects I'm working on below! 
+
 
 
 <!---
