@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel
-- 👀 Full-stack Web Developer
-- 🌱 Currently learning :)
+- 👀 A Full-Stack Web Developer
+- 🌱 I'm Currently learning :)
 - ✨ Check out the projects I'm working on below! 
 
 
