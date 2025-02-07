@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachel
-- 👀 A Full-Stack Web Developer
-- 🏁 In the process of finishing my degree in Software Engineering :)
-- ✨ Check out the projects I'm working on below! 
+- 👀 A Full Stack Web Developer/Programmer Analyst
+- 🏁 Degree in Software Engineering :)
+- ✨ Check out my projects below! 
 
 
 
